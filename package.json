@@ -1,0 +1,22 @@
+{
+  "name": "lts",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucy Tsvetkova",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pooogh/hexlet-js.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/pooogh/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/pooogh/hexlet-js#readme"
+}
